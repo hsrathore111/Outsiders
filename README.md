@@ -1,6 +1,6 @@
-# Outsiders
+# Outsider
 its a kind of room rent related application in which we can post related data to the firebase server.
-# Features of application :-
+# Features of Application :-
 Firebase registratin, firebase login.
 Google login.
 Short list the post from Recyclerview.
