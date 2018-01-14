@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+
+    <item
+         android:icon="@mipmap/ic_add_circle_black_24dp"
+         android:id="@+id/action_add"
+         android:title=""
+         app:showAsAction="always"
+        >
+
+
+
+    </item>
+
+   <item
+
+      android:id="@+id/action_post"
+      android:title="Post Room"
+       android:icon="@drawable/ic_action_name"
+       >
+
+   </item>
+
+    <item
+
+        android:id="@+id/action_share"
+        android:title="share"
+        android:icon="@drawable/ic_action_share"
+        >
+    </item>
+
+</menu>

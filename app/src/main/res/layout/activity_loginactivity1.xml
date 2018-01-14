@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.himmat.outsider.LoginActivity">
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_mail"
+        android:layout_width="match_parent"
+        android:layout_marginTop="20dp"
+        android:layout_height="wrap_content">
+        <EditText
+            android:id="@+id/loginemail"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ems="10"
+
+            android:hint="Email "
+            android:inputType="textEmailAddress"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="29dp"
+            android:layout_below="@+id/loginpassword"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="15dp" />
+
+
+    </android.support.design.widget.TextInputLayout>
+
+    <android.support.design.widget.TextInputLayout
+        android:id="@+id/input_layout_password"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="90dp"
+        >
+        <EditText
+            android:id="@+id/loginpassword"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="50dp"
+            android:ems="10"
+            android:hint="password"
+            android:inputType="textPassword"
+            tools:layout_editor_absoluteX="8dp"
+            tools:layout_editor_absoluteY="144dp"
+            android:layout_below="@+id/input_layout_mail"
+            android:layout_alignParentLeft="true"
+            android:layout_alignParentStart="true" />
+
+    </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/loginbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log in"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="292dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <com.google.android.gms.common.SignInButton
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/googleloginbutton"
+        android:layout_marginTop="42dp"
+        android:layout_below="@+id/loginregister"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true">
+
+    </com.google.android.gms.common.SignInButton>
+
+    <Button
+        android:id="@+id/loginregister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginbutton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="Register " />
+
+
+</RelativeLayout>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "401291398196",
+    "firebase_url": "https://outsider-31805.firebaseio.com",
+    "project_id": "outsider-31805",
+    "storage_bucket": "outsider-31805.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:401291398196:android:59575d41fe966d0d",
+        "android_client_info": {
+          "package_name": "com.example.himmat.outsider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "401291398196-u3u66nmlvj2ehc5itnrer2jcb6rnjvjp.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.himmat.outsider",
+            "certificate_hash": "64f8b4bb3255b5ddd5f082017c6f7be169547025"
+          }
+        },
+        {
+          "client_id": "401291398196-mns21ecb1h7ldglc0pmlbr3odpjr9bi7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCouF6VZedj-MrLmwN8u5yHQNwwLd5oqM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "401291398196-mns21ecb1h7ldglc0pmlbr3odpjr9bi7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

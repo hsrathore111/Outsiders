@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@mipmap/executive"
+    tools:context="com.example.himmat.outsider.Owner_telnant">
+
+    <RadioGroup
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/radioGroup">
+
+
+        <RadioButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:id="@+id/cheakbox1"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="200dp"
+            android:text="owner"
+
+           />
+
+        <RadioButton
+            android:id="@+id/ckeakbox2"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="90dp"
+            android:layout_marginTop="29dp"
+            android:text="user"
+            />
+
+    </RadioGroup>
+
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="I am Owner"
+        android:textSize="15dp"
+        android:layout_marginTop="209dp"
+        android:layout_marginLeft="130dp"
+        android:textColor="#040003"
+        />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="15dp"
+        android:text="I am User"
+        android:textColor="#040003"
+        android:id="@+id/textView2"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="268dp"
+       />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="27dp"
+        android:text="it's Quick,Easy and Free"
+        android:textColor="#040003"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="25dp"
+        android:id="@+id/textView" />
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tell us a bit about you"
+        android:textSize="20dp"
+        android:textColor="#040003"
+        android:layout_below="@+id/textView"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="65dp" />
+
+    <Button
+        android:id="@+id/userbutton"
+        android:layout_width="140dp"
+        android:layout_height="wrap_content"
+        android:text="Next"
+        android:gravity="center"
+        android:background="#ffffffff"
+        android:layout_marginTop="74dp"
+        android:layout_below="@+id/radioGroup"
+        android:layout_centerHorizontal="true" />
+</RelativeLayout>

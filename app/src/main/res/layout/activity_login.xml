@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+    <RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.himmat.outsider.LoginActivity">
+
+    <EditText
+        android:id="@+id/loginpassword"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="70dp"
+        android:hint="password"
+        android:inputType="textPassword"
+        />
+
+    <EditText
+        android:id="@+id/loginemail"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Email "
+        android:inputType="textEmailAddress"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="29dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_marginBottom="31dp" />
+
+    <Button
+        android:id="@+id/loginbutton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Log in"
+        tools:layout_editor_absoluteX="8dp"
+        tools:layout_editor_absoluteY="292dp"
+        android:layout_centerVertical="true"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+      <com.google.android.gms.common.SignInButton
+          android:layout_width="match_parent"
+          android:layout_height="50dp"
+          android:id="@+id/googleloginbutton"
+          android:layout_marginTop="42dp"
+          android:layout_below="@+id/loginregister"
+          android:layout_alignParentLeft="true"
+          android:layout_alignParentStart="true">
+
+      </com.google.android.gms.common.SignInButton>
+
+    <Button
+        android:id="@+id/loginregister"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/loginbutton"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="48dp"
+        android:text="Register " />
+
+
+</RelativeLayout>

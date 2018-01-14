@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Outsider</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="userguide">
+    A one time password(OTP)will be sand
+      via sms to varify your number"
+</string>
+
+    <string name="long_text">
+       The official widget to make a scroll layout in Android is ScrollView. Basically, adding a ScrollView inside ScrollView
+       can be difficult . Most of the times it won’t end well. You will end up adding few workarounds and a person maintaining your code will probably hate you for the rest of his life. Fortunately, with the appearance of Material Design technology, NestedScrollView was released and this becomes much easier.
+       In this tip, I will present the way to put NestedScrollView to ScrollView and ListView. Let watch this DEMO VIDEO first:
+</string>
+</resources>

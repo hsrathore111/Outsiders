@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.himmat.outsider.Owner_activity">
+
+
+    <TextView
+        android:layout_width="280dp"
+        android:layout_height="wrap_content"
+        android:text="@string/userguide"
+        android:textSize="16dp"
+
+
+        android:id="@+id/textView3"
+
+        android:layout_above="@+id/input_layout_mobilenumber"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="27dp" />
+
+   <android.support.design.widget.TextInputLayout
+       android:layout_width="wrap_content"
+       android:layout_height="wrap_content"
+       android:id="@+id/input_layout_mobilenumber"
+       android:layout_above="@+id/submit"
+       android:layout_centerHorizontal="true"
+       android:layout_marginBottom="108dp">
+    <EditText
+        android:id="@+id/mobilenumber"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textView3"
+        android:layout_centerHorizontal="true"
+        android:layout_marginTop="138dp"
+        android:ems="10"
+        android:hint="mobile number"
+        android:inputType="phone" />
+   </android.support.design.widget.TextInputLayout>
+
+    <Button
+        android:id="@+id/submit"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:background="#ACAFFF"
+        android:layout_marginBottom="59dp"
+        android:text="SUBMIT" />
+
+
+</RelativeLayout>

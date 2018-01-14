@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.example.himmat.outsider.Commonpostcity">
+    <EditText
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:hint="house number"
+        android:id="@+id/house_number"
+        android:maxLength="10"
+        android:layout_below="@+id/mspinner"
+        android:layout_alignRight="@+id/textforgender"
+        android:layout_alignEnd="@+id/textforgender" />
+
+
+    <ImageButton
+        android:id="@+id/selectimage"
+        android:layout_width="match_parent"
+        android:layout_height="190dp"
+        android:adjustViewBounds="true"
+        android:scaleType="centerCrop"
+        android:fitsSystemWindows="true"
+        android:src="@mipmap/common" />
+
+    <Spinner
+        android:id="@+id/cspinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginLeft="48dp"
+        android:layout_marginStart="48dp"
+        android:layout_alignTop="@+id/textforgender"
+        android:layout_alignLeft="@+id/edtPhoneNumber"
+        android:layout_alignStart="@+id/edtPhoneNumber" />
+
+
+    <com.hbb20.CountryCodePicker
+        android:id="@+id/ccp"
+        android:layout_width="wrap_content"
+        android:layout_height="200dp"
+        app:ccp_defaultNameCode="IN"
+        android:layout_above="@+id/textforgender"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true"
+        android:layout_alignTop="@+id/edtPhoneNumber">
+    </com.hbb20.CountryCodePicker>
+
+        <EditText
+            android:id="@+id/edtPhoneNumber"
+            android:layout_width="228dp"
+            android:layout_height="wrap_content"
+            android:hint="phone number"
+            android:autoLink="phone"
+            android:clickable="true"
+            android:inputType="phone"
+            android:maxLength="10"
+            android:layout_marginTop="23dp"
+            android:layout_below="@+id/selectimage"
+            android:layout_toRightOf="@+id/ccp"
+            android:layout_toEndOf="@+id/ccp"
+            android:layout_marginLeft="12dp"
+            android:layout_marginStart="12dp" />
+
+    <Button
+        android:id="@+id/btnValidate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="#006699"
+        android:text="Post data"
+        android:layout_marginTop="480dp"
+        android:layout_alignParentBottom="true" />
+    <TextView
+        android:id="@+id/tvIsValidPhone"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+        android:layout_marginTop="10dp"
+        android:layout_marginBottom="10dp"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textforgender"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Room availabe for"
+        android:textSize="15dp"
+        android:layout_marginTop="16dp"
+        android:layout_below="@+id/edtPhoneNumber"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <TextView
+        android:id="@+id/textView5"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="availability of bed"
+        android:textSize="15dp"
+        android:layout_below="@+id/cspinner"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentStart="true" />
+
+    <Spinner
+        android:id="@+id/mspinner"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignTop="@+id/textView5"
+        android:layout_alignLeft="@+id/cspinner"
+        android:layout_alignStart="@+id/cspinner" />
+
+</RelativeLayout>
+</ScrollView>
+
