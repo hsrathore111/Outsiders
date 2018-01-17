@@ -8,3 +8,4 @@ Specific user can delete their post.
 User's Dashboard.
 floating action button.
 <a href="https://imgflip.com/gif/22ugw6"><img src="https://i.imgflip.com/22ugw6.gif" title="made at imgflip.com"/></a>
+<a href="https://imgflip.com/gif/22uhae"><img src="https://i.imgflip.com/22uhae.gif" title="made at imgflip.com"/></a>
