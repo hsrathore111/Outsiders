@@ -30,27 +30,27 @@ floating action button.
 <a href="https://imgflip.com/gif/22uhwa"><img src="https://i.imgflip.com/22uhwa.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/23zwsr"><img src="https://i.imgflip.com/23zwsr.gif" title="made at imgflip.com"/></a>
 
-# New update Login and Registration:-
-<a href="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png"><img src="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png" align="left" height="450" width="260" hspace="50" ></a>
+## New update Login and Registration:-
+<a href="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png"><img src="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png" align="left" height="450" width="260" hspace="50" ></a>                                                                                                                      
 
 <a href="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png"><img src="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png" align="left" height="450" width="260" hspace="100" ></a>
 
-# Like and comments with user profile:-
+## like and comments:-
 <a href="https://user-images.githubusercontent.com/30745141/52518291-73a92380-2c6e-11e9-822a-68bb99b36a2a.png"><img src="https://user-images.githubusercontent.com/30745141/52518291-73a92380-2c6e-11e9-822a-68bb99b36a2a.png" align="left" height="450" width="260" hspace="50" ></a>
 
 <a href="(https://user-images.githubusercontent.com/30745141/52518300-a81cdf80-2c6e-11e9-88a6-571e0397d2c4.png"><img src="https://user-images.githubusercontent.com/30745141/52518300-a81cdf80-2c6e-11e9-88a6-571e0397d2c4.png" align="left" height="450" width="260" hspace="100" ></a>
 
-# Mobile number varification:-
+## Mobile number varification:-
 <a href="https://user-images.githubusercontent.com/30745141/52518351-925bea00-2c6f-11e9-995a-4113806d4c4b.png"><img src="https://user-images.githubusercontent.com/30745141/52518351-925bea00-2c6f-11e9-995a-4113806d4c4b.png" align="left" height="450" width="260" hspace="50" ></a>
 
 <a href="https://user-images.githubusercontent.com/30745141/52518373-b4ee0300-2c6f-11e9-997a-778782e7ce8f.png"><img src="https://user-images.githubusercontent.com/30745141/52518373-b4ee0300-2c6f-11e9-997a-778782e7ce8f.png" align="left" height="450" width="260" hspace="100" ></a>
 
-# user profile setup :-
+## User profile setup :-
 <a href="https://user-images.githubusercontent.com/30745141/52518326-11045780-2c6f-11e9-8da9-ffeba85e8340.png"><img src="https://user-images.githubusercontent.com/30745141/52518326-11045780-2c6f-11e9-8da9-ffeba85e8340.png" align="left" height="450" width="260" hspace="50" ></a>
 
 <a href="https://user-images.githubusercontent.com/30745141/52518335-3ee99c00-2c6f-11e9-851c-b78e163cb851.png"><img src="https://user-images.githubusercontent.com/30745141/52518335-3ee99c00-2c6f-11e9-851c-b78e163cb851.png" align="left" height="450" width="260" hspace="100" ></a>
 
-# Room related information:-
+## Room related information:-
 <a href="https://user-images.githubusercontent.com/30745141/52518421-5e34f900-2c70-11e9-90e4-858edd8ec5e5.png"><img src="https://user-images.githubusercontent.com/30745141/52518421-5e34f900-2c70-11e9-90e4-858edd8ec5e5.png" align="left" height="450" width="260" hspace="50" ></a>
 
 <a href="https://user-images.githubusercontent.com/30745141/52518427-79a00400-2c70-11e9-942e-6ca6b083055d.png"><img src="https://user-images.githubusercontent.com/30745141/52518427-79a00400-2c70-11e9-942e-6ca6b083055d.png" align="left" height="450" width="260" hspace="100" ></a>
