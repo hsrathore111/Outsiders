@@ -34,9 +34,9 @@ its a kind of room rent related application in which we can post related data to
 <a href="https://imgflip.com/gif/23zwsr"><img src="https://i.imgflip.com/23zwsr.gif" title="made at imgflip.com"/></a>
 
 # New update login registration:-
-<img src="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png" align="left" height="450" width="260" hspace="50" >                                                                                                                     
+<img src="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png"  height="450" align="left" width="260"  hspace="50" >                                                                                                                     
 
-<img src="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png" align="left" height="450" width="260" hspace="100" >
+<img src="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png" align="left" height="450" width="260"  hspace="100">
 
 # Like & comments
 <img src="https://user-images.githubusercontent.com/30745141/52518291-73a92380-2c6e-11e9-822a-68bb99b36a2a.png" align="left" height="450" width="260" hspace="50" >
