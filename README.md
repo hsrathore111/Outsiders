@@ -29,3 +29,40 @@ floating action button.
 <a href="https://imgflip.com/gif/22uhob"><img src="https://i.imgflip.com/22uhob.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/22uhwa"><img src="https://i.imgflip.com/22uhwa.gif" title="made at imgflip.com"/></a>
 <a href="https://imgflip.com/gif/23zwsr"><img src="https://i.imgflip.com/23zwsr.gif" title="made at imgflip.com"/></a>
+
+# New Updations Login and Registration:-
+<a href="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png"><img src="https://user-images.githubusercontent.com/30745141/52517861-ecf14800-2c67-11e9-9985-94f797dcfa78.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png"><img src="https://user-images.githubusercontent.com/30745141/52518271-1ad98b00-2c6e-11e9-9cce-c35b44191f55.png" align="left" height="450" width="260" hspace="100" ></a>
+
+# New Updations Like and comments with user profile:-
+<a href="https://user-images.githubusercontent.com/30745141/52518291-73a92380-2c6e-11e9-822a-68bb99b36a2a.png"><img src="https://user-images.githubusercontent.com/30745141/52518291-73a92380-2c6e-11e9-822a-68bb99b36a2a.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="(https://user-images.githubusercontent.com/30745141/52518300-a81cdf80-2c6e-11e9-88a6-571e0397d2c4.png"><img src="https://user-images.githubusercontent.com/30745141/52518300-a81cdf80-2c6e-11e9-88a6-571e0397d2c4.png" align="left" height="450" width="260" hspace="100" ></a>
+
+# Mobile number varification:-
+<a href="https://user-images.githubusercontent.com/30745141/52518351-925bea00-2c6f-11e9-995a-4113806d4c4b.png"><img src="https://user-images.githubusercontent.com/30745141/52518351-925bea00-2c6f-11e9-995a-4113806d4c4b.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518373-b4ee0300-2c6f-11e9-997a-778782e7ce8f.png"><img src="https://user-images.githubusercontent.com/30745141/52518373-b4ee0300-2c6f-11e9-997a-778782e7ce8f.png" align="left" height="450" width="260" hspace="100" ></a>
+
+# New Updations user profile setup :-
+<a href="https://user-images.githubusercontent.com/30745141/52518326-11045780-2c6f-11e9-8da9-ffeba85e8340.png"><img src="https://user-images.githubusercontent.com/30745141/52518326-11045780-2c6f-11e9-8da9-ffeba85e8340.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518335-3ee99c00-2c6f-11e9-851c-b78e163cb851.png"><img src="https://user-images.githubusercontent.com/30745141/52518335-3ee99c00-2c6f-11e9-851c-b78e163cb851.png" align="left" height="450" width="260" hspace="100" ></a>
+
+# Room related information:-
+<a href="https://user-images.githubusercontent.com/30745141/52518421-5e34f900-2c70-11e9-90e4-858edd8ec5e5.png"><img src="https://user-images.githubusercontent.com/30745141/52518421-5e34f900-2c70-11e9-90e4-858edd8ec5e5.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518427-79a00400-2c70-11e9-942e-6ca6b083055d.png"><img src="https://user-images.githubusercontent.com/30745141/52518427-79a00400-2c70-11e9-942e-6ca6b083055d.png" align="left" height="450" width="260" hspace="100" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518435-80c71200-2c70-11e9-9b93-66eb3e997f9f.png"><img src="https://user-images.githubusercontent.com/30745141/52518435-80c71200-2c70-11e9-9b93-66eb3e997f9f.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518439-90def180-2c70-11e9-9c9c-548e83784abf.png"><img src="https://user-images.githubusercontent.com/30745141/52518439-90def180-2c70-11e9-9c9c-548e83784abf.png" align="left" height="450" width="260" hspace="100" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518443-9b998680-2c70-11e9-9796-df8c11372023.png"><img src="https://user-images.githubusercontent.com/30745141/52518443-9b998680-2c70-11e9-9796-df8c11372023.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518445-a81ddf00-2c70-11e9-90b5-72a13bedd650.png"><img src="https://user-images.githubusercontent.com/30745141/52518445-a81ddf00-2c70-11e9-90b5-72a13bedd650.png" align="left" height="450" width="260" hspace="100" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518451-ad7b2980-2c70-11e9-8ff1-d8e827f3782b.png"><img src="https://user-images.githubusercontent.com/30745141/52518451-ad7b2980-2c70-11e9-8ff1-d8e827f3782b.png" align="left" height="450" width="260" hspace="50" ></a>
+
+<a href="https://user-images.githubusercontent.com/30745141/52518550-e798fb00-2c71-11e9-862d-1de2af2ca4f2.png"><img src="https://user-images.githubusercontent.com/30745141/52518550-e798fb00-2c71-11e9-862d-1de2af2ca4f2.png" align="left" height="450" width="260" hspace="100" ></a>
