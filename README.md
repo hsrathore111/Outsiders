@@ -1,6 +1,7 @@
 # Outsider
 its a kind of room rent related application in which we can post related data to the firebase server.
-# Features of Application :-
+
+## Features of Application :-
 
 ● User's Dashboard.
 
